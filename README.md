@@ -1,1 +1,2 @@
-# quick-pick-theia-plugin-sample
+# Quick pick sample
+Plugin example for Theia to test quick pick functionality.
